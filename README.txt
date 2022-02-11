@@ -19,13 +19,6 @@ is the only one that works with my GPU easily.
 I've just recently got to both modding and programming, so if anything is 
 weird within my things, don't hesitate to constructively criticize.
 
-~ λ cat contacts.txt
-CONTACTS--------------------
-nullfrctl@pm.me  | EMAIL   |
-nullfractal#1958 | DISCORD |
-----------------------------
-
-Those are my contacts if you ever need them.
-
-~ λ exit
-Bye!
+contacts ---
+nullfrctl@pm.me  is my email,
+nullfractal#1958 is my discord
