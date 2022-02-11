@@ -13,11 +13,10 @@ Hello. Welcome to my GitHub page.
 Call me nullfractal, I'm a beginning programmer/game modder who likes 
 to just mess around.
 
-Though I would love to rock a minimalist *NIX operating system, Pop!_OS 
-is the only one that works with my GPU easily.
-
 I've just recently got to both modding and programming, so if anything is 
 weird within my things, don't hesitate to constructively criticize.
+
+
 
 nullfrctl@pm.me  is my email,
 nullfractal#1958 is my discord
