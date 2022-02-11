@@ -19,6 +19,5 @@ is the only one that works with my GPU easily.
 I've just recently got to both modding and programming, so if anything is 
 weird within my things, don't hesitate to constructively criticize.
 
-contacts ---
 nullfrctl@pm.me  is my email,
 nullfractal#1958 is my discord
