@@ -1,12 +1,3 @@
-______              os  Pop!_OS 21.10
-\   _ \        __   sh  zsh
- \ \ \ \      / /   wm  Mutter
-  \ \_\ \    / /    cpu Ryzen 5 1600 (12)
-   \  ___\  /_/     gpu NVIDIA GeForce GTX 1060 6GB
-    \ \    _        ram 1600MiB
-   __\_\__(_)_      ____________
-  (___________)`    null@fractal
-  
 ~ λ cat about_me.txt
 Hello. Welcome to my GitHub page.
 
