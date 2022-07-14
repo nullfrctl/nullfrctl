@@ -1,0 +1,19 @@
+blocks:
+  - permission
+  - date
+  - name
+  - size
+
+color:
+  when: auto
+
+date: '+%m.%d.%y'
+size: short
+
+layout: oneline
+
+sorting:
+  column: name
+  dir-grouping: first
+
+total-size: true
