@@ -1,4 +1,4 @@
-PROMPT_CHAR="/"
+PROMPT_CHAR="λ"
 SUCCESS="yellow"
 FAIL="red"
 
