@@ -1,0 +1,5 @@
+PROMPT_CHAR="/"
+SUCCESS="yellow"
+FAIL="red"
+
+PROMPT="%B%1~ %(?.%F{$SUCCESS}.%F{$FAIL})$PROMPT_CHAR%f %b"

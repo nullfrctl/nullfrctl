@@ -1,0 +1,11 @@
+alias szrc="source $ZDOTDIR/.zshrc"
+
+# colorful cmds
+alias ls="lsd --no-symlink"
+
+# ls aliases
+alias ll="ls -lA"
+alias l="ls -l"
+
+# dotfiles sync (dotsync)
+alias dotsync="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
